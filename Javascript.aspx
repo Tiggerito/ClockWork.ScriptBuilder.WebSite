@@ -1,0 +1,1 @@
+<%@ Page Language="C#" AutoEventWireup="true" CodeFile="JavaScript.aspx.cs" Inherits="JavaScriptPage" %>
